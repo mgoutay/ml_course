@@ -21,7 +21,7 @@ All materials are available on my [GitHub page]( https://github.com/mgoutay/ml_c
 
  [The Physical Layer as an Autoencoder]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_exercise.ipynb )
 
-Solution : not there yet ;)
+Solution :  [The Physical Layer as an Autoencoder (solution)]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_exercise_solution.ipynb )
 
 ## (Deep) Reinforcement Learning
 
