@@ -21,11 +21,13 @@ All materials are available on my [GitHub page]( https://github.com/mgoutay/ml_c
 
  [The Physical Layer as an Autoencoder]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_exercise.ipynb )
 
+Solution : not there yet ;)
+
 ## (Deep) Reinforcement Learning
 
 ### Lesson
 
-Slides are available [here](https://github.com/mgoutay/ml_course/raw/master/(D)RL_course.pptx)
+Slides are available [here](https://github.com/mgoutay/ml_course/raw/master/RL_course.pptx)
 
 1. Reinforcement Learning, part I
    1. Multi-armed Bandits
@@ -48,4 +50,6 @@ Slides are available [here](https://github.com/mgoutay/ml_course/raw/master/(D)R
 
 
 
-[Multiple Access Channel with Reinforcement Learning]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/(D)RL_exercise.ipynb )
+[Multiple Access Channel with Reinforcement Learning]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/RL_exercise.ipynb )
+
+Solutions : not there yet ;)
