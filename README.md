@@ -13,7 +13,7 @@ All materials are available on my [GitHub page]( https://github.com/mgoutay/ml_c
 
 
 1. Introduction to Deep Learning : slides are available [here](https://github.com/mgoutay/ml_course/blob/master/DL_course_1.pdf )
-2. Tensorflow for beginners - Tensorflow for experts : notebook is available [here]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_course_2.ipynb ) ([short version]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_course_2_short.ipynb ) )
+2. Tensorflow for beginners - Tensorflow for experts : notebook is available [here]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_course_2.ipynb ) ( [short version]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/DL_course_2_short.ipynb ) )
 
 ### Exercise
 
