@@ -27,7 +27,7 @@ Solution :  [The Physical Layer as an Autoencoder (solution)]( https://colab.res
 
 ### Lesson
 
-Slides are available [here](https://github.com/mgoutay/ml_course/raw/master/RL_course.pdf)
+Slides are available [here](https://github.com/mgoutay/ml_course/blob/master/RL_course.pdf)
 
 1. Reinforcement Learning, part I
    1. Multi-armed Bandits
