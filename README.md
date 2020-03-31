@@ -52,4 +52,4 @@ Slides are available [here](https://github.com/mgoutay/ml_course/blob/master/RL_
 
 [Multiple Access Channel with Reinforcement Learning]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/RL_exercise.ipynb )
 
-Solutions : [Multiple Access Channel with Reinforcement Learning (solution)]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/RL_exercise_solution.ipynb )
+Solution : [Multiple Access Channel with Reinforcement Learning (solution)]( https://colab.research.google.com/github/mgoutay/ml_course/blob/master/RL_exercise_solution.ipynb )
